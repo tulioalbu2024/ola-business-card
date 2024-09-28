@@ -9,12 +9,6 @@
 - **Personalização:** Opções para adicionar logo, informações pessoais e links para redes sociais.
 - **Armazenamento Seguro:** Armazena cartões de visita de maneira segura e acessível.
 
-## Tecnologias Utilizadas
-- **Frontend:** Java, XML (para layouts)
-- **Backend:** Firebase (para armazenamento de dados)
-- **Autenticação:** Firebase Authentication
-- **Ambiente de Desenvolvimento:** Android Studio
-
 <p float="left">
 
 <img src="https://tulioalbu.github.io/Ola-BusinessCards_Projeto-DIO/Screenshots/Screenshot_20220806_004458.png" width = "180" hspace="2">
